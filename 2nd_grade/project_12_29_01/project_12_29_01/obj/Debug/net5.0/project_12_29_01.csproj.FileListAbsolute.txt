@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.exe
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.deps.json
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.runtimeconfig.json
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.runtimeconfig.dev.json
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.dll
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\bin\Debug\net5.0\project_12_29_01.pdb
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.AssemblyInfo.cs
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.dll
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\ref\project_12_29_01.dll
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.pdb
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\project_12_29_01.genruntimeconfig.cache
+C:\Users\student\Desktop\project_12_29_01\project_12_29_01\obj\Debug\net5.0\refint\project_12_29_01.dll
