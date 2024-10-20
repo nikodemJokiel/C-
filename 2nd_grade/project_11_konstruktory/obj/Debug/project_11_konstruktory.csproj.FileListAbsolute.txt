@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\project_11_konstruktory\bin\Debug\project_11_konstruktory.exe.config
+C:\Users\student\Desktop\project_11_konstruktory\bin\Debug\project_11_konstruktory.exe
+C:\Users\student\Desktop\project_11_konstruktory\bin\Debug\project_11_konstruktory.pdb
+C:\Users\student\Desktop\project_11_konstruktory\obj\Debug\project_11_konstruktory.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_11_konstruktory\obj\Debug\project_11_konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_11_konstruktory\obj\Debug\project_11_konstruktory.exe
+C:\Users\student\Desktop\project_11_konstruktory\obj\Debug\project_11_konstruktory.pdb

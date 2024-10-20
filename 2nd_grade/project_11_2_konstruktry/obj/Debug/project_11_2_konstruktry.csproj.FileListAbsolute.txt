@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\project_11_2_konstruktry\bin\Debug\project_11_2_konstruktry.exe.config
+C:\Users\student\Desktop\project_11_2_konstruktry\bin\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\project_11_2_konstruktry\bin\Debug\project_11_2_konstruktry.pdb
+C:\Users\student\Desktop\project_11_2_konstruktry\obj\Debug\project_11_2_konstruktry.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_11_2_konstruktry\obj\Debug\project_11_2_konstruktry.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_11_2_konstruktry\obj\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\project_11_2_konstruktry\obj\Debug\project_11_2_konstruktry.pdb
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\obj\Debug\project_11_2_konstruktry.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\obj\Debug\project_11_2_konstruktry.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\obj\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\obj\Debug\project_11_2_konstruktry.pdb
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\bin\Debug\project_11_2_konstruktry.exe.config
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\bin\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\project_11_2_konstruktry (1)\bin\Debug\project_11_2_konstruktry.pdb
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\bin\Debug\project_11_2_konstruktry.exe.config
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\bin\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\bin\Debug\project_11_2_konstruktry.pdb
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\obj\Debug\project_11_2_konstruktry.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\obj\Debug\project_11_2_konstruktry.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\obj\Debug\project_11_2_konstruktry.exe
+C:\Users\student\Desktop\OneDrive_2024-04-03\project_11_2_konstruktry (2)\obj\Debug\project_11_2_konstruktry.pdb
