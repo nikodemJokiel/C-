@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\project_9_\bin\Debug\net6.0\project_9_.exe
+C:\Users\student\Desktop\project_9_\bin\Debug\net6.0\project_9_.deps.json
+C:\Users\student\Desktop\project_9_\bin\Debug\net6.0\project_9_.runtimeconfig.json
+C:\Users\student\Desktop\project_9_\bin\Debug\net6.0\project_9_.dll
+C:\Users\student\Desktop\project_9_\bin\Debug\net6.0\project_9_.pdb
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.AssemblyInfo.cs
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.dll
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\refint\project_9_.dll
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.pdb
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\project_9_.genruntimeconfig.cache
+C:\Users\student\Desktop\project_9_\obj\Debug\net6.0\ref\project_9_.dll

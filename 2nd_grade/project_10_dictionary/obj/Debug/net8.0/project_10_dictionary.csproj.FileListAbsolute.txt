@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\project_10_dictionary\bin\Debug\net8.0\project_10_dictionary.exe
+C:\Users\student\Desktop\project_10_dictionary\bin\Debug\net8.0\project_10_dictionary.deps.json
+C:\Users\student\Desktop\project_10_dictionary\bin\Debug\net8.0\project_10_dictionary.runtimeconfig.json
+C:\Users\student\Desktop\project_10_dictionary\bin\Debug\net8.0\project_10_dictionary.dll
+C:\Users\student\Desktop\project_10_dictionary\bin\Debug\net8.0\project_10_dictionary.pdb
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.AssemblyInfo.cs
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.dll
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\refint\project_10_dictionary.dll
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.pdb
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\project_10_dictionary.genruntimeconfig.cache
+C:\Users\student\Desktop\project_10_dictionary\obj\Debug\net8.0\ref\project_10_dictionary.dll
