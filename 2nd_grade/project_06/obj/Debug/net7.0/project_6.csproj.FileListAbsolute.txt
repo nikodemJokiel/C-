@@ -1,0 +1,14 @@
+C:\Users\student\3D Objects\NJ_2D\project_6\bin\Debug\net7.0\project_6.exe
+C:\Users\student\3D Objects\NJ_2D\project_6\bin\Debug\net7.0\project_6.deps.json
+C:\Users\student\3D Objects\NJ_2D\project_6\bin\Debug\net7.0\project_6.runtimeconfig.json
+C:\Users\student\3D Objects\NJ_2D\project_6\bin\Debug\net7.0\project_6.dll
+C:\Users\student\3D Objects\NJ_2D\project_6\bin\Debug\net7.0\project_6.pdb
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.AssemblyInfoInputs.cache
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.AssemblyInfo.cs
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.csproj.CoreCompileInputs.cache
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.dll
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\refint\project_6.dll
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.pdb
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\project_6.genruntimeconfig.cache
+C:\Users\student\3D Objects\NJ_2D\project_6\obj\Debug\net7.0\ref\project_6.dll

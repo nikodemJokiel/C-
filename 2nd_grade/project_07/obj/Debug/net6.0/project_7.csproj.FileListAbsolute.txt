@@ -1,0 +1,29 @@
+C:\Users\student\3D Objects\project_7\bin\Debug\net6.0\project_7.exe
+C:\Users\student\3D Objects\project_7\bin\Debug\net6.0\project_7.deps.json
+C:\Users\student\3D Objects\project_7\bin\Debug\net6.0\project_7.runtimeconfig.json
+C:\Users\student\3D Objects\project_7\bin\Debug\net6.0\project_7.dll
+C:\Users\student\3D Objects\project_7\bin\Debug\net6.0\project_7.pdb
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.csproj.AssemblyReference.cache
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.AssemblyInfoInputs.cache
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.AssemblyInfo.cs
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.csproj.CoreCompileInputs.cache
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.dll
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\refint\project_7.dll
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.pdb
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\project_7.genruntimeconfig.cache
+C:\Users\student\3D Objects\project_7\obj\Debug\net6.0\ref\project_7.dll
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\bin\Debug\net6.0\project_7.exe
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\bin\Debug\net6.0\project_7.deps.json
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\bin\Debug\net6.0\project_7.runtimeconfig.json
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\bin\Debug\net6.0\project_7.dll
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\bin\Debug\net6.0\project_7.pdb
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.AssemblyInfoInputs.cache
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.AssemblyInfo.cs
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.csproj.CoreCompileInputs.cache
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.dll
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\refint\project_7.dll
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.pdb
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\project_7.genruntimeconfig.cache
+C:\Users\NT\Documents\ZSK\2_klasa\PO_pracownia\project_7\obj\Debug\net6.0\ref\project_7.dll
